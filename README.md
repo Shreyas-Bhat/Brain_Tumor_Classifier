@@ -14,5 +14,5 @@
 * However, the data is still low for the model to train hence, the accuracy doesn't increase and loss doesn't decrease uniformly 
 * Can use *OneShot* detection(*siamese network*) to deal with this problem
 
-#### accuracy and loss using InceptionV3 model
+#### InceptionV3 model
 ![image](https://user-images.githubusercontent.com/56354373/116769687-8e3c6280-aa5b-11eb-8d5d-3ace89c4ea4d.png)
