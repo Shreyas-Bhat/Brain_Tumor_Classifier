@@ -6,7 +6,7 @@
 * ```YES``` - tumor, encoded as 1
  ![image](https://user-images.githubusercontent.com/56354373/116769624-0ce4d000-aa5b-11eb-8bfb-cb39ba4219d4.png)
 
-=====================================================================================================================
+===================================================================================================
 ### Results 
 * Used transfer learning on CNN based models - 
 * Got validation accuracy of 53 using *ResNet101v2* and 72 using *InceptionV3*
